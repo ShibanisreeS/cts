@@ -7,9 +7,9 @@ from symspellpy import SymSpell
 from nltk.corpus import stopwords
 
 # Download required NLTK data
-#nltk.download('punkt')
-#nltk.download('wordnet')
-#nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('stopwords')
 nltk.download('words')
 
 # Initialize SymSpell object
