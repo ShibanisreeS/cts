@@ -11,6 +11,7 @@ nltk.download('punkt')
 nltk.download('wordnet')
 nltk.download('stopwords')
 nltk.download('words')
+nltk.download('punkt_tab')
 
 # Initialize SymSpell object
 sym_spell = SymSpell(max_dictionary_edit_distance=2, prefix_length=7)
