@@ -6,3 +6,4 @@ nltk
 plotly
 symspellpy
 scikit-learn
+imblearn
